@@ -47,9 +47,9 @@
 #     REVISION: ---
 #===============================================================================
 
-use strict;
-use warnings;
+use 5.010;
 
+# vi:ai:et:sw=2 ts=2
 == Comments.file description pm == map:chpm, sc:d, start, noindent ==
 #
 #===============================================================================
@@ -68,8 +68,7 @@ use warnings;
 #     REVISION: ---
 #===============================================================================
 
-use strict;
-use warnings;
+use 5.010;
  
 == Comments.file description t == map:cht, sc:d, start, noindent ==
 #
@@ -89,8 +88,7 @@ use warnings;
 #     REVISION: ---
 #===============================================================================
 
-use strict;
-use warnings;
+use 5.010;
 
 use Test::More tests => 1;                      # last test to print
 

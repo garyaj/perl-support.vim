@@ -2,11 +2,11 @@
 §  User Macros
 § ==========================================================
 
-SetMacro( 'AUTHOR',      'YOUR NAME' )
-SetMacro( 'AUTHORREF',   '' )
-SetMacro( 'COMPANY',     '' )
+SetMacro( 'AUTHOR',      'Gary Ashton-Jones' )
+SetMacro( 'AUTHORREF',   'GAJ' )
+SetMacro( 'COMPANY',     'Ashton-Jones Consulting P/L' )
 SetMacro( 'COPYRIGHT',   'Copyright (c) |YEAR|, |AUTHOR|' )
-SetMacro( 'EMAIL',       '' )
+SetMacro( 'EMAIL',       'gary@ashton-jones.com.au' )
 SetMacro( 'LICENSE',     'GNU General Public License' )
 SetMacro( 'ORGANIZATION','' )
 
